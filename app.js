@@ -29,7 +29,6 @@ document.addEventListener('DOMContentLoaded', function(event) {
   //"add movie" button functionality
   document.querySelector(".btn-primary").onclick = function(e) {
     e.preventDefault();
-
     var userInput = document.getElementById("addMovie").value;
 
     //if input field is not empty, add user input to movie list
