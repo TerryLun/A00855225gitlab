@@ -1,0 +1,13 @@
+cd Documents
+mkdir A00855225
+cd A00855225
+# copy and paste files to this folder
+git init
+git add .
+git commit -m "initial commit"
+# create repository in github.com
+git remote add origin https://github.com/TerryLun/A00855225gitlab.git
+touch README.md
+git add README.md
+git commit -m "created README.md"
+git push -u origin master
