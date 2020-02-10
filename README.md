@@ -1,0 +1,1 @@
+md stands for markdown. it is a type of file that is both readable in plain text, but can also be very easily to convert to HTML to display special elements. Therefore, it has both the advantages of .txt and .html extension. Github also has its own version of .md syntax with addition useful features which make it easier to work with content on Github.
